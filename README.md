@@ -17,11 +17,11 @@ After compiling the project, run the executable and follow the instruction in th
 ## Authors
 __Group 08 of Class 03__:
 
-__* Yoel Susanto
-* Ignasius Irvan
-* Rahma Safira Amelia
-* Putu Priyana Pradipta
-* Nehemia Tejo Asa**__
+* __Yoel Susanto__
+* __Ignasius Irvan__
+* __Rahma Safira Amelia__
+* __Putu Priyana Pradipta__
+* __Nehemia Tejo Asa**__
 
 ## Acknowledgments
 Thank you for group 08 of class 03, it's a great opportunity to learn many things with you guys :)
