@@ -5,9 +5,9 @@ Big assignment for Programming Fundamentals Course, 2nd Semester. The purpose of
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ### Prerequisites
 Install pascal compiler on your system
-```
-[Download Free Pascal](https://www.freepascal.org/).
-```
+
+>[Download Free Pascal](https://www.freepascal.org/).
+
 ### Compile the project
 After installing the pascal compiler, proceed to compiling the project. Compile the main file and the rest of the dependencies will follow automatically
 
