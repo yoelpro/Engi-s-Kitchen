@@ -1,4 +1,5 @@
 # Engi's Kitchen
+![Snapshot](snapshot.png)
 Big assignment for Programming Fundamentals Course, 2nd Semester. The purpose of this assignment is to let students demonstrate basic programming skills using *pascal*. This assignment is being carried out in groups of 5 people.
 
 ## How To Use
@@ -21,7 +22,7 @@ __Group 08 of Class 03__:
 * __Ignasius Irvan__
 * __Rahma Safira Amelia__
 * __Putu Priyana Pradipta__
-* __Nehemia Tejo Asa**__
+* __Nehemia Tejo Asa__
 
 ## Acknowledgments
 Thank you for group 08 of class 03, it's a great opportunity to learn many things with you guys :)
