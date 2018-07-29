@@ -1,0 +1,5 @@
+Nasi Putih|1200|2|Beras|Air
+Gorengan|1000|2|Goreng|Kertas Ujian
+Mizone|3000|2|Air|Garam
+-999
+

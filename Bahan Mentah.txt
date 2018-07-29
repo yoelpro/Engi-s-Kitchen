@@ -1,0 +1,37 @@
+Daging Sapi|5000|10
+Kangkung|1000|10
+Bayam|1010|10
+Lada|200|10
+Bawang|500|3
+Air|500|10
+Air Mata|500|10
+Es |200|10
+Krim|500|10
+Kecap|400|3
+Beras|500|10
+Jepang|5000|10
+Korea|3000|10
+Kapitalisme|4000|10
+Daging Ayam|2000|10
+Yoel|10000|10
+Susu|1500|3
+Tepung|1000|4
+Gengsi|20|10
+Dompet|4000|10
+Garam|300|3
+Telur|500|8
+Kertas Ujian|10|100
+Goreng|100|4
+Minyak|500|10
+Sambal|200|4
+Gelisah|10|10
+Waktu|20000|100
+Bandung|50000|100
+Tugas|1|10
+Capek|1|10
+Chempro|35000|100
+Phiwiki|35000|100
+Matcho|35000|100
+Kedelai|200|10
+Laba2|5000|10
+-999

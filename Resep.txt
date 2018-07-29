@@ -1,0 +1,12 @@
+Nasi Goreng|15000|2|Nasi Putih|Gorengan
+Nasi Kecap|10000|2|Nasi Putih|Kecap
+Nasi Korea|15000|2|Nasi Putih|Korea
+Yoeland|25000|3|Susu|Tepung|Yoel
+Wibu|20000|3|Air Mata|Garam|Bawang
+Etitu|30000|2|Gengsi|Dompet
+Ayam Goang|16000|3|Daging Ayam|Nasi Putih|Kapitalisme
+ITB|12500000|9|Gelisah|Gorengan|Waktu|Bandung|Tugas|Capek|Chempro|Phiwiki|Matcho
+Es Krim|5000|2|Es|Krim
+Maba|10000|2|Garam|Minyak
+Karina|5000|2|Susu|Tepung
+-999
